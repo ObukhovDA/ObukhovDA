@@ -15,6 +15,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-E34F26?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![FFUF](https://example.com/path-to-ffuf-logo.png)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
