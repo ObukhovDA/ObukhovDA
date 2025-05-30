@@ -4,7 +4,7 @@
 
 <ul>
   <li>🛠️ Playing with tools like <strong>Nmap</strong>, <strong>Burp</strong>, and <strong>Wireshark</strong></li>
-  <li>🎯 Training on <strong>Hack The Box</strong> and <strong>TryHackMe</strong></li>
+  <li>🎯 Training on <strong>PortSwigger</strong></li>
   <li>📚 Studying Linux, networks, and security fundamentals</li>
 </ul>
 
